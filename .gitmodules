@@ -1,0 +1,9 @@
+[submodule "lenny"]
+	path = lenny
+	url = git@github.com:wess/lenny.git
+[submodule "sti"]
+	path = sti
+	url = git@github.com:wess/Simple-Tiled-Implementation.git
+[submodule "anim8"]
+	path = anim8
+	url = git@github.com:wess/anim8.git
